@@ -9,7 +9,7 @@ dist
 *.log.*
 
 # Data
-dataset/*
+# dataset/*
 
 # Editor
 .idea
@@ -32,5 +32,5 @@ ckpts*
 # Demo
 serve_images/
 
-baselines/*
-newer_models/*
+# baselines/*
+# newer_models/*
