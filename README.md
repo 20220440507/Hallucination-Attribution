@@ -1,9 +1,11 @@
 # Hallucination-Attribution
-#友情说明：本项目源于https://github.com/TianyunYoung/Hallucination-Attribution.git
-#本着复现论文的方向去的，至于创建仓库的目的是因为课程老师需要我们创建一个github链接储存我们的代码
-#数据集来源：（二选一即可）
-1、官方链接：https://cocodataset.org/#download
-2、百度网盘链接：
+
+## 友情说明：
+1. 本项目源于https://github.com/TianyunYoung/Hallucination-Attribution.git
+2. 本着复现论文的方向去的，至于创建仓库的目的是因为课程老师需要我们创建一个github链接储存我们的代码
+## 数据集来源：（二选一即可）
+1. 官方链接：https://cocodataset.org/#download
+2. 百度网盘链接：
 COCO2014
 链接: https://pan.baidu.com/s/1XiNE3M-MzENWYKEUm2r7cg 
 提取码: 5m60
