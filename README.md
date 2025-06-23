@@ -126,5 +126,4 @@ python newer_models/eval_caption.py \
 - Chameleon 7B/30B
 - Llama-3.2-11B-Vision
 
-## 致谢与参考
-该项目受到了多项幻觉研究和视觉语言模型研究的启发。感谢COCO和NoCaps数据集提供用于评估的图像和标注。 
+
